@@ -1,0 +1,201 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+arduino_RFID_UI
+</name>
+</assembly>
+<members>
+<member name="T:arduino_RFID_UI.My.Resources.Resources">
+<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.ResourceManager">
+<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.Culture">
+<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources._762">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources._762_1_">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources._762_1_1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources._7621">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources._822">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources._833">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources._8331">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.Caro">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.Connected">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.Disconnect">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.Disconnect1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.iconfinder_arrow138_216456">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.iconfinder_arrow138_2164561">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.iconfinder_Bin_2202256">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.iconfinder_cancel_326554">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.iconfinder_check_box_outline_blank_326558_1_">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.iconfinder_check_circle_outline_326568">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.iconfinder_close_293668">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.iconfinder_close15_216468_1_">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.iconfinder_close16_216470">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.iconfinder_Computer__Computer_Hardware_USB_Port_Connection_4064143_1_">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.iconfinder_Computer__Computer_Hardware_USB_Port_Connection_4064143_1_1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.iconfinder_document_sans_add_103499">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.iconfinder_document_text_edit_103514">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.iconfinder_document_text_edit_1035141">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.iconfinder_icon_27_one_finger_click_315298">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.iconfinder_icon_27_one_finger_click_315854">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.iconfinder_icon_27_trash_can_314759">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.iconfinder_refresh_01_186390">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.iconfinder_refresh_01_186390_1_">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.Maga">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.telecharger">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.user">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.user1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:arduino_RFID_UI.My.Resources.Resources.user2">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

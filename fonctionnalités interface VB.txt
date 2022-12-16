@@ -1,0 +1,232 @@
+Color panelMenu : #0647A5
+white color : #FFFCEB
+Border blue : #0046B4
+
+
+form1 : InterfaceClient
+-----------------------
+Text: Interface de présence
+BackColor : white
+size : 948;617
+
+PanelMenu
+---------
+size : 324;579
+Location : 0;0
+
+PictureBoxLogo
+--------------
+
+size : 200;142 
+Location: 62;25
+
+buttonConnection = Connexion
+--------------------------
+Size : 302;36
+Location: 22;193
+
+buttonUserData = Données Utilisateur
+--------------------------
+
+Location : 22;235
+
+buttonRegistration = Enregistrer / Editer Utilisateur
+------------------------------------------------------
+Location : 22;277
+
+PictureBoxSelect
+----------------
+
+Size : 18;36
+Location : 0;193
+
+LabelConnectionStatus = Connection status : Disconnect/ Etat de connexion : Déconnecté
+------------------------------------------------------
+Location: 330;4
+
+PictureBoxStatusConnect
+-----------------------
+size: 12,12
+location: 515;4
+
+LabelDateTime = Time 00:00:00 Date 00 mmm; 0000
+-----------------------------------------------
+
+Location: 728;4
+
+PanelConnection ; PanelRegistrationandEditUserData, PanelUserData
+-----------------------------------------------------------------
+size: 588; 546
+Location:332; 20
+
+PanelTopMeader
+--------------
+Size : 588;5
+Location : 0;0
+
+buttonScanPort = Scanner le port
+BackColor WhiteSmoke
+BorderColor = 0; 70; 180
+MouseDownBackColor = 13; 95; 215
+MouseOverBackColor = 49; 114; 210
+size: 113;20
+Location:14;20
+
+ComboBoxPort
+------------
+size: 265;21
+Location: 133;20
+
+Label : vitesse de transmission
+-------------------------------
+Location : 404;23
+
+ComboBoxBaudRate : 
+----------------
+size:90;20
+Location: 472; 19
+
+ComboBaudRate Col:
+-----------------
+1200
+2400
+4800
+9600 
+14400
+19200
+38400
+57600
+115200
+buttonConnect = Connecté
+------------------------
+Size: 555;30
+Location:14,65
+
+PanelUserData
+GroupBoxImage = Image and ID
+Size:208;239
+Location:332; 20
+
+PictureBoxUserImage
+Size:174;174
+Location: 18;24
+
+LabelID = ID : __________
+Location 25;201
+
+GroupBox = Detail Données 
+----------------------
+
+Size : 555; 263
+Location: 14;271
+
+Label:NOM
+Location: 6;28
+Label :
+LabelName = Patientez...
+Location 129;28
+LabelAddress
+LabelCity
+LabelDepartment
+buttonClear = Clear
+size: 68;21
+Location: 477;229
+
+PanelRegistrationandEditUserData
+--------------------------------
+Label(Nom, Adresse, Ville, Pays)
+Location:11,20
+
+TextBoxNom
+TextBoxadresse
+TextBoxVille
+TextBoxDep
+
+size: 492;20
+
+buttonSave = Enregistrer
+size: 86; 30
+Location: 14;203
+
+buttonClearForm = Effacer
+---------------
+Size: 86; 30
+Location: 102;203
+
+GroupBox = Recuperer ID
+-----------------------
+size : 120;130
+Location:329; 153
+
+buttonScanID = Scanner
+----------------------
+size:108;49
+Location: 6;22
+
+Label(ID) 
+Location:6,98
+
+LabelGetID = .____________
+Location : 35;98
+
+GroupBox = Photo
+-----------------
+size: 120;130
+Location: 453; 153
+
+PictureBoxImageInput
+--------------------
+Size: 100;100
+Location:10;22
+
+					       Uploader
+GroupBox = Enregistrements
+-------------------------
+Size:555; 263
+Location:14; 283
+
+Label = 
+
+
+GroupBox = Rechercher ici
+------------------
+Location: 6; 34
+TextBoxSearch
+Size: 248; 20
+Location:119; 25
+
+CheckBoxByName = Chercher par nom
+Location : 373; 29
+
+CheckBoxByID = Chercher par ID
+Location :373; 54
+
+DateGridView1
+size:555; 263
+Location: 9; 74
+
+PictureBoxImagePreview
+size: 110; 110
+Location: 434; 79
+
+PanelReadingTagProcess
+Location :465;22
+size: 264;165
+
+Label : Lecture de la carte...
+Location:2; 4
+
+buttonCloseReadingTag
+---------------------
+BackColor:white
+BorderColor: Black
+MouseDownBackColor:255;192;192
+MouseOverBackColor: whiteSmoke
+size:25;23
+Location:224;5
+
+PictureBox
+size:80;80
+Location: 91;72
+
+
